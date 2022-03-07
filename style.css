@@ -108,6 +108,6 @@ p.slide-left{
     animation-delay: 2s;
 }
 
-@media only screen and (max-device-width:768px){
+@media only screen and (max-device-width:723px){
     body{width: 100%};
 }
